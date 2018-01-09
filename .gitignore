@@ -1,0 +1,15 @@
+
+# NodeJS modules folder
+node_modules
+
+# npm debug log
+npm-debug.log
+
+# vs code
+.vscode
+
+# coverage
+coverage
+
+#dist folder
+dist

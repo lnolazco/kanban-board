@@ -1,0 +1,25 @@
+.app {
+  width: 100%;
+  text-align: center;
+}
+
+.board-column {
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+  border: 2px solid green;
+  padding: 5px;
+}
+
+.board-column-tasks {
+  vertical-align: top;
+  border: 2px solid green;
+  padding: 10px;
+  background-color: darkcyan;
+}
+
+.board-task {
+  border: 2px solid dodgerblue;
+  margin-bottom: 10px;
+  background-color: honeydew;
+}
